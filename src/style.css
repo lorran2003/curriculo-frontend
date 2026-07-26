@@ -254,6 +254,12 @@ li:last-child {
         color: #374151;
     }
 
+    #experiencia {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
     p,
     ul {
         margin-bottom: 0;
