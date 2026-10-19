@@ -26,6 +26,7 @@
 
 html {
     background: var(--color-page);
+    padding: 20px;
 }
 
 body {
